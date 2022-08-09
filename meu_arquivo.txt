@@ -1,3 +1,9 @@
-Meu primeiro repositorio Git.
-Batata quente.
-Hoje tá mol frio.
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+- SoftSkills
+- Python
